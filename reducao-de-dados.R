@@ -5,9 +5,9 @@
 install.packages("pacman") # Install pacman if needed
 
 # Load/install rgl for interactive 3D plots using OpenGL;
-# on Mac loads in X11/XQuartz
+# on Mac loads in X11/XQuartz 
 
-pacman: p_load(rgl)
+pacman: p_load(rgl) 
 
 # CREATE DATA ##########################################
 
